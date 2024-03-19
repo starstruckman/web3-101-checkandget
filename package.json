@@ -1,0 +1,24 @@
+{
+  "name": "web3-101-checkandget",
+  "version": "1.0.0",
+  "description": "Check and get started with technologies, exploring the basics and practical applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starstruckman/web3-101-checkandget"
+  },
+  "author": "starstruckman",
+  "license": "MIT",
+  "dependencies": {
+    "web3-101-checkandget": "1.0.0",
+    "web3-101-checkandget-implement": "1.0.0",
+    "underscore": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "bcrypt": "1.0.0",
+    "fs-extra": "1.0.0",
+    "supertest": "1.0.0"
+  }
+}
